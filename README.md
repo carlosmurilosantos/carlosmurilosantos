@@ -2,7 +2,7 @@
 Estudante de Analise e Desenvolvimento de Sistema no IFSP, 24 anos, nativo de São Paulo - SP
 Interesse por Tecnologia e paixão por T.I ## :hammer:   <br>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge) <br>
 ![GitHub Org's stars](https://img.shields.io/github/stars/carlosmurilosantos?style=social)
 
 ## Estatísticas
