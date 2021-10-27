@@ -1,6 +1,8 @@
 ## Perfil
 Estudante de Analise e Desenvolvimento de Sistema no IFSP, 24 anos, nativo de São Paulo - SP
 Interesse por Tecnologia e paixão por T.I
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 ## Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmurilosantos&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmurilosantos)](https://github.com/anuraghazra/github-readme-stats)
