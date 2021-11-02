@@ -5,6 +5,25 @@ Interesse por Tecnologia e paixão por T.I
 <br> LGBT
 ## :hammer:   <br>
 
+<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+ 
+# Welcome!
+ 
+## me chamo murilo
+ 
+… Insira suas descrições aqui!
+ 
+ 
+## About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carlosmurilosantos)](https://github.com/carlosmurilosantos)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+11+960327460&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+11+960327460&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilo.c@aluno.ifsp.edu.br)](mailto:murilo.c@aluno.ifsp.edu.br)
+ 
+- Thanks for visiting. 
+ 
+- Enjoy it!! o/
+
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge) <br>
 ![GitHub Org's stars](https://img.shields.io/github/stars/carlosmurilosantos?style=social)
 
