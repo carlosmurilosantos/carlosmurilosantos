@@ -1,9 +1,4 @@
-## Perfil
-Estudante de Analise e Desenvolvimento de Sistema no IFSP, 24 anos, nativo de São Paulo - SP
-Interesse por Tecnologia e paixão por T.I 
-<br> Preto
-<br> LGBT
-## :hammer:   <br>
+ 
 
 <img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
  
@@ -11,8 +6,12 @@ Interesse por Tecnologia e paixão por T.I
  
 ## me chamo murilo
  
-… Insira suas descrições aqui!
- 
+## Perfil
+Estudante de Analise e Desenvolvimento de Sistema no IFSP, 24 anos, nativo de São Paulo - SP
+Interesse por Tecnologia e paixão por T.I 
+<br> Preto
+<br> LGBT
+## :hammer:   <br>
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carlosmurilosantos)](https://github.com/carlosmurilosantos)
