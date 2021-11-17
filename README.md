@@ -26,7 +26,7 @@ Interesse por Tecnologia e paixão por T.I
 ![GitHub Org's stars](https://img.shields.io/github/stars/carlosmurilosantos?style=social)
 
 ## Estatísticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/carlosmurilosantos/github-readme-stats)
 ## Habilidades
 <p float="left">
 
