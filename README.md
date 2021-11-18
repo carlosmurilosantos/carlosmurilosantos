@@ -1,12 +1,18 @@
 
-
+<h1 align="left">
+    Hello World
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+</h1>
 
 # Welcome!
  
-## me chamo murilo
+
  
 ## Perfil
-Estudante de Analise e Desenvolvimento de Sistema no IFSP, 24 anos, nativo de São Paulo - SP
+Me chamo Murilo,Estudante de Analise e Desenvolvimento de Sistema no IFSP, 24 anos, nativo de São Paulo - SP
 Interesse por Tecnologia e paixão por T.I 
 <br> Preto
 <br> LGBT
