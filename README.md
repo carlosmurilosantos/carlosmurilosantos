@@ -12,7 +12,9 @@
 
  
 ## Perfil
-Me chamo Murilo,Estudante de Analise e Desenvolvimento de Sistema no IFSP, 24 anos, nativo de São Paulo - SP
+Murilo
+Estudante de Analise e Desenvolvimento de Sistema no IFSP
+São Paulo - SP
 Interesse por Tecnologia e paixão por T.I 
 <br> Preto
 <br> LGBT
