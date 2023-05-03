@@ -35,7 +35,26 @@ Interesse por Tecnologia e paixão por T.I
 
 ## Estatísticas
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmurilosantos&layout=compact)](https://github.com/carlosmurilosantos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmurilosantos&layout=compact&theme=dracula)](https://github.com/carlosmurilosantos/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmurilosantos&show_icons=true&theme=dracula)
+## Distintivos
+<p float="left">
+<a href="https://www.credly.com/badges/1c76edb6-5473-4dde-8c02-a25fe752a31c">
+<img src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" width=80 height=85>
+</a>
+<a href="https://brasilopenbadge.com.br/ganhador/ver-badge/?id=6684e0a6de1eb1fcfd611b3884b69285">
+<img src="https://brasilopenbadge.com.br/badge/3694.png?nocache=392926798" width=80 height=85>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/11817e9f-2d1f-4956-89d4-f2a31444db89">
+<img src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" width=80 height=85>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/b32b51ca-d0a0-45d3-be70-a13d9f3f677b">
+<img src="https://images.credly.com/size/340x340/images/a12fff38-aab2-4643-be27-7e5c39ddc75c/image.png" width=80 height=85>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/24e5ff4d-87e3-40d0-ae8d-ba889d60ee2e">
+<img src="https://images.credly.com/size/340x340/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png" width=80 height=85>
+</a>
+</p>
 
 ## Habilidades
 <p float="left">
@@ -64,9 +83,4 @@ Interesse por Tecnologia e paixão por T.I
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50px" height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="50px" height="50px" />
-
-
-
-
-
 </p>
