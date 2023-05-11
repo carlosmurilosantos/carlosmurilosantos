@@ -48,12 +48,7 @@ Interesse por Tecnologia e paixão por T.I
 <a href="https://www.credly.com/earner/earned/badge/11817e9f-2d1f-4956-89d4-f2a31444db89">
 <img src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" width=80 height=85>
 </a>
-<a href="https://www.credly.com/earner/earned/badge/b32b51ca-d0a0-45d3-be70-a13d9f3f677b">
-<img src="https://images.credly.com/size/340x340/images/a12fff38-aab2-4643-be27-7e5c39ddc75c/image.png" width=80 height=85>
-</a>
-<a href="https://www.credly.com/earner/earned/badge/24e5ff4d-87e3-40d0-ae8d-ba889d60ee2e">
-<img src="https://images.credly.com/size/340x340/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png" width=80 height=85>
-</a>
+
 </p>
 
 ## Habilidades
