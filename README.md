@@ -27,8 +27,7 @@ Interesse por Tecnologia e paixão por T.I
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilo.c@aluno.ifsp.edu.br)](mailto:murilo.c@aluno.ifsp.edu.br)
  
 - Thanks for visiting. 
- 
-- Enjoy it!! o/
+
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge) <br>
 ![GitHub Org's stars](https://img.shields.io/github/stars/carlosmurilosantos?style=social)
